@@ -1,4 +1,6 @@
 making of new file in this repo
 making another change
+<<<<<<< HEAD
 add new line in master branch
 2026 is coming
+=======
